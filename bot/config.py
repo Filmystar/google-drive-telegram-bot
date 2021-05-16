@@ -1,8 +1,8 @@
 class config:
-    BOT_TOKEN = "1400204878:AAElF5-3hpHEQZkn-41cHVMAGoyUzrVW7ac"
+    BOT_TOKEN = "1821668437:AAH7Q57Tl1hyWNtv4vvAvMt4Z3muD3ML848"
     APP_ID = "2496759"
     API_HASH = "04149c860d7793ecfa60a78a0b557365"
-    DATABASE_URL = "postgres://lmwbxnioszmrso:65d04590363645286b9a7eee0f864335ba2089a62ea81229d8e81af6a9c61dbf@ec2-52-2-127-5.compute-1.amazonaws.com:5432/da4ter1jb67ad9"
+    DATABASE_URL = "postgres://rmbktpdeaouyau:aaa66c67daeaff169c0d677afef2c12da8e44dfc34ebb9f1e0af9ba187eae602@ec2-34-200-94-86.compute-1.amazonaws.com:5432/d2t83ontm6q7uk"
     SUDO_USERS = "869523430" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/HindiHDmovies"
     DOWNLOAD_DIRECTORY = "./downloads/"
