@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = "1821668437:AAH7Q57Tl1hyWNtv4vvAvMt4Z3muD3ML848"
+    BOT_TOKEN = "1841518105:AAEMtzKAWDi0xDd5MITtkCIXdptKPg_MBAY"
     APP_ID = "2496759"
     API_HASH = "04149c860d7793ecfa60a78a0b557365"
-    DATABASE_URL = "postgres://rmbktpdeaouyau:aaa66c67daeaff169c0d677afef2c12da8e44dfc34ebb9f1e0af9ba187eae602@ec2-34-200-94-86.compute-1.amazonaws.com:5432/d2t83ontm6q7uk"
-    SUDO_USERS = "869523430" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/HindiHDmovies"
+    DATABASE_URL = "postgres://smjwprywakdtuu:45986f664f7fc6651ba70b9014861ffa43b5a33303f0e6acd85b71343fc9f2b9@ec2-3-214-136-47.compute-1.amazonaws.com:5432/d9qcs12nkjanik"
+    SUDO_USERS = "1562983361" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/jaipur_ludo_king_clubs"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
